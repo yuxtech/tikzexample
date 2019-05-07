@@ -1,7 +1,7 @@
 # tikzexample
 This is a collection of my drawing by TikZ
 ## 分形多边形
-![流程图]{https://github.com/yuxtech/tikzexample/blob/master/pic/tyre.png}
+![流程图](https://github.com/yuxtech/tikzexample/blob/master/pic/tyre.png)
 ```tex
 \documentclass[tikz,border=2pt]{standalone}
 \usepackage{ctex}
@@ -36,7 +36,7 @@ This is a collection of my drawing by TikZ
 ```
 
 ## flowchart
-![流程图]{https://github.com/yuxtech/tikzexample/blob/master/pic/flowchart.png}
+![流程图](https://github.com/yuxtech/tikzexample/blob/master/pic/flowchart.png)
 ```tex
 \documentclass[tikz,border=2pt]{standalone}
 \usepackage{ctex,flowchart}
@@ -72,7 +72,7 @@ minimum height=0.5cm] {END};
 \end{document} 
 ```
 ## mindmap
-![思维导图]{https://github.com/yuxtech/tikzexample/blob/master/pic/mindmap.png}
+![思维导图](https://github.com/yuxtech/tikzexample/blob/master/pic/mindmap.png)
 ```tex
 \documentclass[tikz,border=2pt]{standalone}
 \usepackage{ctex}
@@ -117,7 +117,7 @@ minimum height=0.5cm] {END};
 \end{document} 
 ```
 ## cover
-![封面]{https://github.com/yuxtech/tikzexample/blob/master/pic/cover.png}
+![封面](https://github.com/yuxtech/tikzexample/blob/master/pic/cover.png)
 ```tex
 \documentclass[tikz]{standalone}
 \usepackage{ctex,amsmath,amssymb}
@@ -234,7 +234,7 @@ minimum height=0.5cm] {END};
 \end{document} 
 ```
 ## automata
-![机器人]{https://github.com/yuxtech/tikzexample/blob/master/pic/automata.png}
+![机器人](https://github.com/yuxtech/tikzexample/blob/master/pic/automata.png)
 ```tex
 \documentclass[tikz]{standalone}
 \usetikzlibrary{automata,positioning,shadows}
@@ -260,7 +260,7 @@ initial/.style={red,text=white}
 \end{document} 
 ```
 ## matrix
-![矩阵流程图]{https://github.com/yuxtech/tikzexample/blob/master/pic/matrix.png}
+![矩阵流程图](https://github.com/yuxtech/tikzexample/blob/master/pic/matrix.png)
 ```tex
 \documentclass[tikz]{standalone}
 \usetikzlibrary{shapes.geometric}
@@ -299,7 +299,7 @@ initial/.style={red,text=white}
 \end{document} 
 ```
 ## pgfornament
-![矩阵流程图]{https://github.com/yuxtech/tikzexample/blob/master/pic/ornament.png}
+![矩阵流程图](https://github.com/yuxtech/tikzexample/blob/master/pic/ornament.png)
 ```tex
 \documentclass[tikz,svgnames]{standalone}
 \usepackage{pgfornament,amsmath}
